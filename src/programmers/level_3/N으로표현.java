@@ -3,7 +3,7 @@ package programmers.level_3;
 import java.util.*;
 
 /**
- * 종류 :
+ * 종류 : #DP, #DFS
  * 시작일시 : 2020-11-06 16:21
  * 성공/실패 : 실패
  * 소요시간 :
