@@ -1,8 +1,6 @@
 package programmers.level_2;
 
 import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.Queue;
 
 /**
  * 종류 : #DFS

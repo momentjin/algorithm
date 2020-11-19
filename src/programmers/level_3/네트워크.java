@@ -3,7 +3,7 @@ package programmers.level_3;
 import java.util.*;
 
 /**
- * 종류 : #DFS, #BFS
+ * 종류 : #DFS, #BFS, #다시풀기
  * 시작일시 : 2020-11-09 13:59
  * 성공/실패 : 성공
  * 소요시간 : 35분

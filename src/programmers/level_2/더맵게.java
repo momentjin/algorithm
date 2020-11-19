@@ -5,7 +5,7 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 
 /**
- * 종류 : #
+ * 종류 : #큐
  * 시작일시 : 2020-11-03 01:31
  * 성공/실패 :
  * 소요시간 :
