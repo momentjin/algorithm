@@ -12,7 +12,7 @@ import java.util.List;
  *
  * 실패 사유
  * - 알고리즘에 근접했으나, 끝까지 풀지 못함
- * -long, int 제대로 처리 안함
+ * - long, int 제대로 처리 안함
  */
 public class 줄서는방법 {
 

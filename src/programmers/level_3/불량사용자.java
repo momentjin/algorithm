@@ -2,6 +2,12 @@ package programmers.level_3;
 
 import java.util.*;
 
+/**
+ * 종류 : #DFS
+ * 시작일시 :
+ * 성공/실패 : 성공
+ * 소요시간 :
+ */
 public class 불량사용자 {
 
 

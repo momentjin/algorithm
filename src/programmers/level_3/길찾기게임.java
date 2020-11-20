@@ -8,6 +8,8 @@ import java.util.stream.Collectors;
  * 시작일시 : 2020-11-17 00:28
  * 성공/실패 : 성공
  * 소요시간 : 30분
+ *
+ * 이 문제에서 중점은 트리에 node를 삽입하는 로직을 작성할 수 있느냐 없느냐다.
  */
 public class 길찾기게임 {
 
