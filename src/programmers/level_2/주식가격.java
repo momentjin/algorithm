@@ -3,7 +3,7 @@ package programmers.level_2;
 import java.util.Arrays;
 
 /**
- * 종류 : #
+ * 종류 : #구현
  * 시작일시 : 2020-11-02 20:30
  * 성공/실패 : 실패
  * 소요시간 : 구현은 빨리함, 근데 실패함

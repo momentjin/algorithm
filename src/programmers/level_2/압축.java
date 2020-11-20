@@ -12,7 +12,7 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
-class 압 {
+class 압축 {
     public int[] solution(String msg) {
 
         List<Integer> result = new ArrayList<>();

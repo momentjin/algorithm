@@ -1,10 +1,12 @@
 package programmers.level_2;
 
-import java.lang.reflect.Array;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.List;
 
 /**
- * 종류 : #
+ * 종류 : #구현
  * 시작일시 : 2020-11-02 20:09
  * 성공/실패 :
  * 소요시간 :
