@@ -59,7 +59,7 @@ fun solution(bridge_length: Int, weight: Int, truck_weights: IntArray): Int {
 //    val bridge_length = 2
 //    val weight = 10
 //    val truck_weights = listOf(7, 4, 5, 6).toIntArray()
-//    val result = Solution().solution(bridge_length, weight, truck_weights)
+//    val result = 외벽점검().solution(bridge_length, weight, truck_weights)
 //
 //    println(result)
 //}
