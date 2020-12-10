@@ -4,7 +4,7 @@ import java.util.*;
 
 public class 다익스트라 {
 
-    /*
+    /**
      * 선형탐색 버전 (O^2)
      */
     public static class Version1 {
