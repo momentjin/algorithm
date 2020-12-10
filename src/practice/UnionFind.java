@@ -41,6 +41,9 @@ public class UnionFind {
         }
 
         System.out.println(Arrays.toString(nodes));
+
+        // node값이 같은 것 끼리 하나의 집합에 속함
+        // 즉, 모두 같은 경우 집합은 1개 (모두 연결)
     }
 
     private static void connectNodes(int[] nodes, int edge1, int edge2) {
@@ -50,7 +53,7 @@ public class UnionFind {
         int end = Math.max(edge1, edge2);
 
         for (int i = 0; i < nodes.length; i++) {
-            if (nodes[i] == start) nodes[i] = end;
+            if (nodes[i] == end) nodes[i] = start;
         }
     }
 }
