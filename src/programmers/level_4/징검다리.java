@@ -3,7 +3,7 @@ package programmers.level_4;
 import java.util.Arrays;
 
 /**
- * #이분탐색
+ * #이분탐색, #ParametricSearch
  * #실패
  *
  * Q. 하나를 기준으로 이분 탐색하는 건 쉬운데, 여러개를 선택하면서 이분 탐색하는건 뭐지.

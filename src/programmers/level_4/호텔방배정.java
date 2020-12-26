@@ -16,7 +16,7 @@ import java.util.Map;
 class 호텔방배정 {
 
     public static void main(String[] args) {
-        long[] a = new programmers.재시도_안한_문제.호텔방배정().solution(10, new long[]{1, 3, 4, 1, 3, 1});
+        long[] a = new 호텔방배정().solution(10, new long[]{1, 3, 4, 1, 3, 1});
         System.out.println(Arrays.toString(a));
     }
 
