@@ -51,6 +51,8 @@ public class 섬연결하기 {
                 updateNodes(nodes, start, end);
                 answer += cost;
             }
+
+            i++;
         }
 
         return answer;
